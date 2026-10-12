@@ -1,0 +1,35 @@
+[batch] submitted msgbatch_01GtDgJUYUoHd6xtqK4Yyyog: 800 requests (conflict_v0_answers_part0)
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog processing=800 succeeded=0 errored=0
+[batch] msgbatch_01GtDgJUYUoHd6xtqK4Yyyog done: 800/800 ok, $1.050; ledger $25.41 of $30.00
+[batch] submitted msgbatch_01FbP8wCpGH7ERkj3j7XrNBq: 319 requests (conflict_v0_answers_part1)
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq processing=319 succeeded=0 errored=0
+[batch] msgbatch_01FbP8wCpGH7ERkj3j7XrNBq done: 319/319 ok, $0.407; ledger $25.82 of $30.00
+[batch] submitted msgbatch_011WmYehwMgk8mGGobTbDUdN: 672 requests (conflict_v0_reasoning)
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN processing=672 succeeded=0 errored=0
+[batch] msgbatch_011WmYehwMgk8mGGobTbDUdN done: 672/672 ok, $0.026; ledger $25.84 of $30.00
+1120 rows; answer-judged 1119; reasoning-judged 672; errors 0

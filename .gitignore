@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+persona/results/conflict_v0/acts.npz
+persona/results/conflict_v0/*batch*.json
+persona/results/conflict_v0/*.results.jsonl

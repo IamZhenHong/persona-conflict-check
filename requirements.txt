@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+torch>=2.14
+transformers>=5.17
+anthropic

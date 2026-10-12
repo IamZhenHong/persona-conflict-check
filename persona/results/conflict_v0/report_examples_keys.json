@@ -1,0 +1,51 @@
+{
+ "plain": [
+  "pr|plain|q126|s3",
+  "pr|plain|q071|s2",
+  "pr|plain|q071|s1",
+  "pr|plain|q064|s1",
+  "pr|plain|q012|s3"
+ ],
+ "read": [
+  "pr|read|q012|s5",
+  "pr|read|q071|s5",
+  "pr|read|q126|s5",
+  "pr|read|q012|s4",
+  "pr|read|q183|s0"
+ ],
+ "wiki": [
+  "pr|wiki|q012|s11",
+  "pr|wiki|q126|s2",
+  "pr|wiki|q064|s5",
+  "pr|wiki|q183|s11",
+  "pr|wiki|q039|s6"
+ ],
+ "override": [
+  "pr|override|q180|s0",
+  "pr|override|q012|s4",
+  "pr|override|q012|s0",
+  "pr|override|q064|s8",
+  "pr|override|q071|s1"
+ ],
+ "style": [
+  "pr|style|q048|s10",
+  "pr|style|q064|s1",
+  "pr|style|q126|s8",
+  "pr|style|q167|s6",
+  "pr|style|q093|s10"
+ ],
+ "relay": [
+  "pr|relay|q012|s2",
+  "pr|relay|q039|s1",
+  "pr|relay|q064|s0",
+  "pr|relay|q093|s5",
+  "pr|relay|q183|s0"
+ ],
+ "sysC": [
+  "pr|sysC|q071|s2",
+  "pr|sysC|q183|s2",
+  "pr|sysC|q048|s0",
+  "pr|sysC|q064|s3",
+  "pr|sysC|q048|s2"
+ ]
+}
